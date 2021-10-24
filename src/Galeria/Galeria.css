@@ -1,0 +1,43 @@
+.title{
+    background-color: #424242;
+    color: white;
+    padding-top: 100px;
+    height: 120px;
+}
+
+.title h1{
+    margin-top: -10px;
+}
+
+.conteiner-cards{
+    background-color: #121212;
+    height: 350px;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    color: white;
+    background-color:  #424242;
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+    overflow: hidden;
+}
+
+.card img{
+    width: 250px;
+}
+
+.card p{
+    font-size: 12px;
+}
+
+.rodape{
+    color: rgb(121, 121, 247);
+}
+
